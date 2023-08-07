@@ -1,2 +1,2 @@
-import array from(./exportArray.mjs);
+import array from "./exportArray.mjs";
 console.log(array);
